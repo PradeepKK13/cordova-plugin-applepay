@@ -55,7 +55,7 @@
 	<preference name="MERCHF1" default=""/>
 	<preference name="MERCHF2" default=""/>
 	<preference name="MERCHF3" default=""/>
-	<!--<preference name="MERCHF4" default=""/>-->
+	<preference name="MERCHF4" default=""/>
 	<!--<platform name="ios">
     <config-file parent="NSCameraUsageDescription" target="*-Info.plist">
         <string>We are using a camera to capture profile photo</string>
@@ -129,7 +129,7 @@
 <string>$MERCHF1</string>
 <string>$MERCHF2</string>
 <string>$MERCHF3</string>
-<!--<string>$MERCHF4</string>-->
+<string>$MERCHF4</string>
 			</array>
 		  </config-file>
 
@@ -183,7 +183,7 @@
 <string>$MERCHF1</string>
 <string>$MERCHF2</string>
 <string>$MERCHF3</string>
-<!--<string>$MERCHF4</string>-->
+<string>$MERCHF4</string>
 			</array>
 		  </config-file> 
 		<!-- Adding Associated Domains -->	  
